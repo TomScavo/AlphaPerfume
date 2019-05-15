@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://alpha:982736@scent-v6fj9.azure.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "susu"
+}
